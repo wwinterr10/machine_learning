@@ -3,7 +3,7 @@
 - Anaconda 가상환경을 이용하여 jupyter notebook으로 학습 및 테스트 진행
 - 의사결정나무(Decision Tree), 랜덤포레스트(Random Forest), XGBoost를 이용하여 학습/결과값 예측 비교
 - 타이타닉 생존자 분류에서 어떤 알고리즘이 가장 효율적인지를 비교
-- numpy, pandas, matplot, seaborn, 라이브러리 사용
+- numpy, pandas, matplot, seaborn, pydotplus 라이브러리 사용
 - 데이터 전처리
   - 생존과 관련 있는 컬럼만 탐색하고 상관관계를 파악
   - 생존과 관련 있는 컬럼을 새로 생성(예: 가족수, 성별+나이)
